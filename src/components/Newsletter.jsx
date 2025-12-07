@@ -27,7 +27,7 @@ const Newsletter = () => {
           className="bg-white text-black outline-none p-3 rounded-lg w-full sm:w-auto sm:flex-1"
         />
         <button className="bg-[#00df9a] md:p-3 sm:p-3 py-2 rounded-lg w-full sm:w-auto font-semibold">
-          Notify me
+          Notify me 
         </button>
       </div>
 
